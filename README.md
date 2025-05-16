@@ -15,10 +15,9 @@ I'm a passionate developer with a strong foundation in computer science and a ke
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** JavaScript, C#, Python
+- **Languages:** HTML/CSS, JavaScript, C#, Java
 - **Frameworks & Libraries:** React, Node.js, .NET
-- **Tools & Platforms:** Git, GitHub, Visual Studio, VS Code
-- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, Visual Studio, VS Code, Unity
 
 ---
 
@@ -26,14 +25,20 @@ I'm a passionate developer with a strong foundation in computer science and a ke
 
 Here are some of my highlighted projects:
 
-- [WeatherApp](https://github.com/williamandrews2/WeatherApp): A JavaScript application that fetches and displays weather data.
-- [SkySprint](https://github.com/williamandrews2/SkySprint): A C# project simulating a flight experience.
+- [Weatherly](https://github.com/williamandrews2/WeatherApp): A JavaScript application that fetches and displays weather data.
+- [SwifTask](https://github.com/williamandrews2/TodoList): A task management app to keep track of daily and future activities.
+- [SkySprint](https://github.com/williamandrews2/SkySprint): A Unity/C# project simulating a flight experience.
 - [Calculator](https://github.com/williamandrews2/calculator): A simple calculator built with JavaScript.
-- [TodoList](https://github.com/williamandrews2/TodoList): A task management app to keep track of daily activities.
-- [FirstPersonShooter](https://github.com/williamandrews2/FirstPersonShooter): A ShaderLab project demonstrating 3D rendering techniques.
-- [LinkedList](https://github.com/williamandrews2/LinkedList): An implementation of a linked list data structure in JavaScript.
+- [FirstPersonShooter](https://github.com/williamandrews2/FirstPersonShooter): A Unity/C# project demonstrating 3D rendering techniques in an FPS game that features online multiplayer.
 
 Feel free to explore these repositories to see my coding style and approach to problem-solving.
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/williamandrews2/count.svg" />
+</p>
 
 ---
 
