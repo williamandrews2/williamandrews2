@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a strong foundation in computer science and a keen interest in building practical applications. I enjoy exploring new technologies and continuously improving my skills.
+Hi there! My name is William, and I'm an aspiring software engineer with a strong foundation in computer science and a passion for building practical applications. In addition to my fascination with technology and constant desire to learn more, I also enjoy exploring the automotive world and expanding my knowledge of finance. Feel free to check out the links above to learn more about me!
 
 ---
 
