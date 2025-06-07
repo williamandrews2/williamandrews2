@@ -16,7 +16,7 @@ Hi there! My name is William, and I'm an aspiring software engineer with a stron
 ## 🛠️ Skills & Technologies
 
 - **Languages:** HTML/CSS, JavaScript, C#, Java
-- **Frameworks & Libraries:** React, Node.js, .NET
+- **Frameworks & Libraries:** React, Node.js, 
 - **Tools & Platforms:** Git, GitHub, Visual Studio, VS Code, Unity
 
 ---
