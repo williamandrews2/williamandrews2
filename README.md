@@ -27,7 +27,7 @@ Here are some of my highlighted projects:
 
 - [Weatherly](https://github.com/williamandrews2/WeatherApp): A JavaScript application that fetches and displays weather data.
 - [SwifTask](https://github.com/williamandrews2/TodoList): A task management app to keep track of daily and future activities.
-- [SkySprint](https://github.com/williamandrews2/SkySprint): A Unity/C# project simulating a flight experience.
+- [GeoDash](https://github.com/williamandrews2/EndlessRunner): A 3D endless runner game developed in Unity.
 - [Calculator](https://github.com/williamandrews2/calculator): A simple calculator built with JavaScript.
 - [FirstPersonShooter](https://github.com/williamandrews2/FirstPersonShooter): A Unity/C# project demonstrating 3D rendering techniques in an FPS game that features online multiplayer.
 
