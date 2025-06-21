@@ -26,6 +26,7 @@ Hi there! My name is William, and I'm an aspiring software engineer with a stron
 Here are some of my highlighted projects:
 
 - [Weatherly](https://github.com/williamandrews2/WeatherApp): A JavaScript application that fetches and displays weather data.
+- [Battleship](https://github.com/williamandrews2/Battleship): A classic game of Battleship made with vanilla Javascript.
 - [SwifTask](https://github.com/williamandrews2/TodoList): A task management app to keep track of daily and future activities.
 - [GeoDash](https://github.com/williamandrews2/EndlessRunner): A 3D endless runner game developed in Unity.
 - [Calculator](https://github.com/williamandrews2/calculator): A simple calculator built with JavaScript.
