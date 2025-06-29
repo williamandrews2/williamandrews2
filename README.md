@@ -57,7 +57,6 @@ I'm always open to discussing new projects, collaborations, or opportunities. Fe
 - 📧 [Email Me](mailto:william@williamandrews.net)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/william-cs)
 
-Let's build something amazing together!
 
 
 
