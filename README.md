@@ -36,10 +36,9 @@ Feel free to explore these repositories to see my coding style and approach to p
 
 ---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/williamandrews2/count.svg" />
-</p>
+## 📈 GitHub Stats
+
+![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamandrews2&show_icons=true&theme=radical)
 
 ---
 
