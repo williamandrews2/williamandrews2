@@ -43,12 +43,6 @@ Feel free to explore these repositories to see my coding style and approach to p
 
 ---
 
-## 📈 GitHub Stats
-
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamandrews2&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to connect with me:
