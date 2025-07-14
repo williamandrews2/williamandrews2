@@ -32,7 +32,7 @@ Here are some of my highlighted projects:
 - [Calculator](https://github.com/williamandrews2/calculator): A simple calculator built with JavaScript.
 - [FirstPersonShooter](https://github.com/williamandrews2/FirstPersonShooter): A Unity/C# project demonstrating 3D rendering techniques in an FPS game that features online multiplayer.
 
-Feel free to explore these repositories to see my coding style and approach to problem-solving.
+Feel free to explore these repositories to see my coding style!
 
 ---
 
