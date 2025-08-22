@@ -24,7 +24,7 @@ Hi there! My name is William, and I'm an aspiring software engineer with a stron
 ## 📂 Notable Projects
 
 Here are some of my highlighted projects:
-
+- [PayPenguin](https://github.com/williamandrews2/PayPenguin): A React JS app created for simple tracking and organization of monthly bills (current project).
 - [Weatherly](https://github.com/williamandrews2/WeatherApp): A JavaScript application that fetches and displays weather data.
 - [Battleship](https://github.com/williamandrews2/Battleship): A classic game of Battleship made with vanilla Javascript, utilizing Jest for Test-Driven Development.
 - [SwifTask](https://github.com/williamandrews2/TodoList): A task management app to keep track of daily and future activities.
